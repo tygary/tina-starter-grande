@@ -1,7 +1,8 @@
 {
   "menuItems": [
     {
-      "label": "%Test"
+      "label": "%Test",
+      "link": "/asdf"
     },
     {
       "label": "Home",
