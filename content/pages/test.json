@@ -1,0 +1,11 @@
+{
+  "title": "Test",
+  "path": "/asdf",
+  "blocks": [
+    {
+      "content": "Hello!",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}
