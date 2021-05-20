@@ -1,6 +1,9 @@
 {
   "menuItems": [
     {
+      "label": "%Test"
+    },
+    {
       "label": "Home",
       "link": "/"
     },
